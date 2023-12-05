@@ -1,0 +1,6 @@
+path: 'C:\Users\samar\Documents\iot_project'
+train: 'data\images\train'
+val: 'data\images\valid'
+
+nc: 2
+names: ['license-plate','car']
